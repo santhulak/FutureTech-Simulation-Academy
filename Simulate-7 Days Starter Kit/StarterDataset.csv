@@ -1,0 +1,17 @@
+Sales,MarketingSpend,Customers,Region,ProductCategory,Rating,Complaints,Discount,Returns
+1200,200,34,North,Electronics,4,1,5,2
+900,150,28,South,Groceries,5,0,10,1
+1250,300,40,East,Fashion,3,2,15,3
+800,100,20,West,Electronics,4,1,5,0
+950,180,26,North,Groceries,2,3,20,2
+1100,,32,South,Fashion,5,0,10,1
+1000,160,30,East,Electronics,4,1,5,
+1300,250,38,West,Fashion,3,2,0,3
+700,120,18,North,Groceries,4,1,20,0
+,140,22,South,Fashion,3,1,15,1
+1150,210,36,East,Electronics,5,0,5,2
+1000,170,,West,Fashion,4,1,10,1
+900,160,25,North,Groceries,3,2,15,2
+1400,300,45,South,Electronics,5,0,5,1
+1000,180,30,East,Groceries,4,1,10,0
+850,130,21,West,Fashion,3,3,20,1
