@@ -71,16 +71,7 @@ This course introduces the core programming concepts in Python — from syntax t
 
 ---
 
-### **Module 7: Working with Libraries**
-- Importing built-in modules (math, datetime, os)  
-- Installing packages using pip  
-- Using external libraries like NumPy and Pandas (intro level)
-
-🧩 *Mini Practice:* Automate a text report generator using the datetime module.
-
----
-
-### **Module 8: Mini Project — Personal Expense Tracker**
+### **Module 7: Mini Project — Personal Expense Tracker**
 **Goal:** Build a CLI-based expense tracker using Python.  
 
 **Key Tasks:**
@@ -89,14 +80,14 @@ This course introduces the core programming concepts in Python — from syntax t
 - Save and load data using a `.csv` file  
 - Generate total monthly summary  
 
-**Tools Used:** Python, Pandas, VS Code  
+**Tools Used:** Python, Jupyter Notebook, VS Code  
 
 ---
 
 ## 🧰 Tools Required
 - Python 3.10+  
 - Jupyter / Google Colab / VS Code  
-- Pandas, NumPy  
+
 
 ---
 
