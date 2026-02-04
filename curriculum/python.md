@@ -40,24 +40,23 @@ This course introduces the core programming concepts in Python — from syntax t
 🧩 *Mini Practice:* Number guessing game using loops.
 
 ---
-
-### **Module 4: Functions & Modular Coding**
-- Defining and calling functions  
-- Parameters, Return statements  
-- Scope of variables  
-- Lambda functions and reusability  
-
-🧩 *Mini Practice:* Function-based BMI Calculator.
-
----
-
-### **Module 5: Data Structures in Python**
+### **Module 4: Data Structures in Python**
 - Lists, Tuples, Sets, and Dictionaries  
 - CRUD operations (Create, Read, Update, Delete)  
 - Nested data structures  
 - Iterating through complex data  
 
 🧩 *Mini Practice:* Student score tracker using lists and dictionaries.
+
+---
+
+### **Module 5: Functions & Modular Coding**
+- Defining and calling functions  
+- Parameters, Return statements  
+- Scope of variables  
+- Lambda functions and reusability  
+
+🧩 *Mini Practice:* Function-based BMI Calculator.
 
 ---
 
