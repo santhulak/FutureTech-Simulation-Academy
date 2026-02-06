@@ -69,15 +69,45 @@ This course introduces the core programming concepts in Python — from syntax t
 🧩 *Mini Practice:* Read and summarize data from a `.txt` file.
 
 ---
+## **Module 7: Object-Oriented Programming (OOP) & Advanced Python**
+🔹Core OOP Concepts
+- Introduction to OOP
+- Classes and Objects
+- Constructors (__init__)
 
-### **Module 7: Mini Project — Personal Expense Tracker**
+🔹 OOP Principles
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+🔹 Advanced Python (Integrated with OOP)
+- Iterators (__iter__() and __next__())
+- Generators (yield)
+- Decorators (@ syntax)
+  
+ 🧩 *Mini Practice:*
+
+Create a Student class with name and age
+BankAccount class with deposit & withdraw
+Employee → Manager inheritance
+Shape class with area() (Polymorphism)
+Secure UserAccount (Encapsulation)
+Custom Number Iterator
+Even Number Generator
+Function Timer Decorator
+
+---
+
+### **Module 8: Mini Project — Personal Expense Tracker**
 **Goal:** Build a CLI-based expense tracker using Python.  
 
 **Key Tasks:**
-- Add, view, and delete transactions  
-- Categorize expenses (Food, Travel, Bills, etc.)  
-- Save and load data using a `.csv` file  
-- Generate total monthly summary  
+- Add, view, and delete transactions
+- Categorize expenses (Food, Travel, Bills, etc.)
+- Save and load data using .csv / .txt files
+- Generate total monthly summary
+- Apply OOP concepts for structured design
 
 **Tools Used:** Python, Jupyter Notebook, VS Code  
 
@@ -85,8 +115,7 @@ This course introduces the core programming concepts in Python — from syntax t
 
 ## 🧰 Tools Required
 - Python 3.10+  
-- Jupyter / Google Colab / VS Code  
-
+- Jupyter Notebook / VS Code  / Google Colab
 
 ---
 
