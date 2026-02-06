@@ -121,6 +121,7 @@ Function Timer Decorator
 
 ## 🎓 Learning Outcomes
 By the end of this course, you’ll be able to:
+
 ✅ Write Python scripts confidently  
 ✅ Understand logic building, loops, and functions  
 ✅ Manipulate data using built-in structures  
