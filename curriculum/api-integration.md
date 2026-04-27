@@ -1,43 +1,35 @@
-# 🌐 API Integration & Development — Connect the Digital World
+# 🔌 API Integration & Development
 
-### 🎯 Course Goal
-Learn how APIs work and how to build, test, and connect them using Python.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Understanding APIs**
-- REST concepts, endpoints, HTTP methods  
-
-### **Module 2: Consuming APIs**
-- Using Python’s Requests module  
-- Handling JSON responses  
-
-### **Module 3: Building APIs**
-- Creating endpoints with Flask or FastAPI  
-- Authentication basics  
-- Testing with Postman  
+## 📘 Course Overview
+Learn APIs and integrations.
 
 ---
 
-### 🧩 Mini Project: Weather Insights API
-Build and deploy a REST API that fetches real-time weather data.
+## 🎓 Learning Outcomes
+✔ API usage  
+✔ Integration  
 
 ---
 
-### 🧰 Tools Required
-- Flask, Postman, OpenWeather API  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/learn/apis  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand API concepts  
-✅ Build and test REST APIs  
-✅ Integrate APIs into automation projects  
+## 🧠 How We Guide You
+✔ API building  
 
 ---
 
-### 🏁 Next Step
-Congrats — You’ve completed Tier 1! 🎉  
-Proceed to Tier 2 → *Simulation Labs: Work Like a Data Scientist*
+## 🧪 Projects
+- Weather app  
+
+---
+
+## 🎯 Outcome
+✔ Backend basics  
+
+---
+
+## 🚀 Next Step
+👉 Full-stack / DevOps
