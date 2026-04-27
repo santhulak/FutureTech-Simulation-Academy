@@ -12,7 +12,7 @@ Build automation workflows without coding.
 ---
 
 ## 🧭 Recommended Learning Pathway
-👉 (Use internal + tools like Zapier/n8n)
+👉 [(Use internal + tools like Zapier/n8n)](https://www.coursera.org/learn/automate-enhance-and-no-code-apps)
 
 ---
 
