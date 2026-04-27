@@ -1,39 +1,35 @@
-# ⚙️ No-Code Automation with n8n — Build Smart Workflows
+# ⚙️ No-Code Automation with n8n
 
-### 🎯 Course Goal
-Learn to automate repetitive tasks without coding using n8n and AI integrations.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Workflow Basics**
-- Triggers, nodes, and executions  
-
-### **Module 2: Automation Design**
-- Connect Gmail, Sheets, Notion  
-
-### **Module 3: AI Integration**
-- OpenAI + n8n for smart automation  
+## 📘 Course Overview
+Build automation workflows without coding.
 
 ---
 
-### 🧩 Mini Project: Email-to-Sheets Automation
-Extract data from emails and automatically store it in Google Sheets.
+## 🎓 Learning Outcomes
+✔ Workflow automation  
+✔ API connections  
 
 ---
 
-### 🧰 Tools Required
-- n8n, Gmail API, Google Sheets  
+## 🧭 Recommended Learning Pathway
+👉 (Use internal + tools like Zapier/n8n)
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand workflow automation  
-✅ Design multi-step automations  
-✅ Integrate AI tools without code  
+## 🧠 How We Guide You
+✔ Automation design  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [🌐 API Integration & Development](./api-integration.md)
+## 🧪 Projects
+- Lead automation system  
+
+---
+
+## 🎯 Outcome
+✔ Automation specialist  
+
+---
+
+## 🚀 Next Step
+👉 Advanced automation
