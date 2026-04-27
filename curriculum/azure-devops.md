@@ -1,45 +1,46 @@
-# ☁️ Azure DevOps Essentials — Automate Your Deployments
+# ☁️ Azure DevOps Essentials
 
-### 🎯 Course Goal
-Learn to set up CI/CD pipelines using Azure DevOps and automate your deployment process.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Introduction to DevOps**
-- DevOps culture & lifecycle  
-- What are CI/CD pipelines  
-
-### **Module 2: Azure Pipelines**
-- Creating a build pipeline  
-- YAML file structure  
-- Running automated tests  
-
-### **Module 3: Continuous Deployment**
-- Release pipelines  
-- Connecting Azure Repos or GitHub  
-- Deploying containerized apps  
+## 📘 Course Overview
+Learn CI/CD pipelines and cloud deployment using Azure DevOps.
 
 ---
 
-### 🧩 Mini Project: CI/CD Pipeline for Flask App
-Automate the build, test, and deploy steps for a Flask web app to Azure.
+## 📚 Curriculum
+- DevOps basics  
+- CI/CD pipelines  
+- Azure services  
+- Deployment strategies  
 
 ---
 
-### 🧰 Tools Required
-- Azure Pipelines  
-- Docker, GitHub, Python  
+## 🎓 Learning Outcomes
+✔ Understand DevOps lifecycle  
+✔ Build CI/CD pipelines  
+✔ Deploy applications  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand DevOps workflow  
-✅ Build automated pipelines  
-✅ Deploy Python apps to the cloud  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/professional-certificates/microsoft-devops-engineer  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [💾 GitHub Mastery](./github.md)
+## 🧠 How We Guide You
+✔ Pipeline setup guidance  
+✔ Real-world deployment  
+
+---
+
+## 🧪 Projects
+- CI/CD pipeline project  
+- Azure deployment  
+
+---
+
+## 🎯 Outcome
+✔ Entry-level DevOps skills  
+
+---
+
+## 🚀 Next Step
+👉 Kubernetes / Cloud Advanced
