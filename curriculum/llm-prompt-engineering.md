@@ -1,41 +1,36 @@
-# 🧠 LLM & Prompt Engineering Essentials
+# 🧠 LLM & Prompt Engineering
 
-### 🎯 Course Goal
-Learn how to design structured prompts for ChatGPT and LLMs for better results.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: LLM Basics**
-- What are large language models  
-- Understanding GPT, Claude, Gemini  
-
-### **Module 2: Prompt Design**
-- Instruction, Role, Example prompts  
-- Chain-of-thought prompting  
-
-### **Module 3: Testing Prompts**
-- Refining and comparing outputs  
+## 📘 Course Overview
+Work with large language models.
 
 ---
 
-### 🧩 Mini Project: Text Summarizer Tool
-Use the OpenAI API to summarize and rephrase long documents.
+## 🎓 Learning Outcomes
+✔ Prompt design  
+✔ LLM understanding  
 
 ---
 
-### 🧰 Tools Required
-- OpenAI API, Python, Streamlit  
+## 🧭 Recommended Learning Pathway
+👉 https://learn.deeplearning.ai/courses/generative-ai-with-llms  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Design effective prompts  
-✅ Build mini LLM applications  
-✅ Integrate API-based workflows  
+## 🧠 How We Guide You
+✔ AI workflows  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [⚙️ No-Code Automation with n8n](./no-code-automation.md)
+## 🧪 Projects
+- AI chatbot  
+- Resume analyzer  
+
+---
+
+## 🎯 Outcome
+✔ GenAI developer skills  
+
+---
+
+## 🚀 Next Step
+👉 AI Projects
