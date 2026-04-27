@@ -1,41 +1,35 @@
-# 💬 AI for Everyone — Master AI Without Coding
+# 🧠 AI for Everyone
 
-### 🎯 Course Goal
-Understand AI tools and how to apply them in daily workflows — no coding required.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: AI Fundamentals**
-- What is AI? Where is it used?  
-- Overview of ChatGPT, Gemini, Perplexity  
-
-### **Module 2: Prompting Skills**
-- Writing effective prompts  
-- Role-based and structured prompting  
-
-### **Module 3: AI Tools in Action**
-- Content creation, planning, automation use-cases  
+## 📘 Course Overview
+Understand AI without coding.
 
 ---
 
-### 🧩 Mini Project: AI Productivity Assistant
-Create a personal workflow to automate daily tasks using ChatGPT and Notion.
+## 🎓 Learning Outcomes
+✔ AI concepts  
+✔ Real-world use cases  
 
 ---
 
-### 🧰 Tools Required
-- ChatGPT, Gemini, Notion  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/learn/ai-for-everyone  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand AI fundamentals  
-✅ Use AI tools for automation  
-✅ Apply prompt engineering in workflows  
+## 🧠 How We Guide You
+✔ AI applications  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [🎨 Generative AI Bootcamp](./generative-ai.md)
+## 🧪 Projects
+- AI business idea  
+
+---
+
+## 🎯 Outcome
+✔ AI awareness  
+
+---
+
+## 🚀 Next Step
+👉 Generative AI
