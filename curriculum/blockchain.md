@@ -1,40 +1,35 @@
-# 🔗 Blockchain Fundamentals — Build Your First Ledger
+# 🔗 Blockchain Fundamentals
 
-### 🎯 Course Goal
-Learn how blockchain works and build a simple ledger system using Python.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Blockchain Basics**
-- What is blockchain?  
-- Hashing & immutability  
-
-### **Module 2: Transactions**
-- Blocks, Chains, and Proof of Work  
-
-### **Module 3: Python Simulation**
-- Building a ledger in Python  
+## 📘 Course Overview
+Understand blockchain and smart contracts.
 
 ---
 
-### 🧩 Mini Project: Simple Blockchain Ledger
-Simulate transactions with hashing to ensure data integrity.
+## 🎓 Learning Outcomes
+✔ Blockchain basics  
+✔ Smart contracts  
 
 ---
 
-### 🧰 Tools Required
-- Python, hashlib  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/specializations/blockchain  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand blockchain fundamentals  
-✅ Implement a simple blockchain  
-✅ Explore real-world blockchain use-cases  
+## 🧠 How We Guide You
+✔ Web3 concepts  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [🧠 LLM & Prompt Engineering Essentials](./llm-prompt-engineering.md)
+## 🧪 Projects
+- Token creation  
+
+---
+
+## 🎯 Outcome
+✔ Blockchain foundation  
+
+---
+
+## 🚀 Next Step
+👉 Web3 Development
