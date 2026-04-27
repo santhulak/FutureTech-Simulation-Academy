@@ -1,39 +1,36 @@
-# 🎨 Generative AI Bootcamp — Create with AI Tools
+# 🔥 Generative AI Bootcamp
 
-### 🎯 Course Goal
-Learn to create AI-powered content — text, images, and videos — using modern GenAI tools.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Text Generation**
-- ChatGPT, Tome, Gamma  
-
-### **Module 2: Image Creation**
-- DALL·E, Leonardo AI, Canva Magic  
-
-### **Module 3: AI Video Tools**
-- Pictory, Runway ML, Synthesia  
+## 📘 Course Overview
+Learn GenAI tools and build applications.
 
 ---
 
-### 🧩 Mini Project: AI Resume Generator
-Create a complete AI-generated resume using ChatGPT and Canva templates.
+## 🎓 Learning Outcomes
+✔ Prompt engineering  
+✔ AI tools usage  
 
 ---
 
-### 🧰 Tools Required
-- ChatGPT, Canva, Tome, Gamma  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/learn/generative-ai-for-everyone  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand Generative AI  
-✅ Create professional assets with AI  
-✅ Integrate tools for productivity  
+## 🧠 How We Guide You
+✔ AI tool usage  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [🔗 Blockchain Fundamentals](./blockchain.md)
+## 🧪 Projects
+- Chatbot  
+- Content generator  
+
+---
+
+## 🎯 Outcome
+✔ Build AI apps  
+
+---
+
+## 🚀 Next Step
+👉 LLM Advanced
