@@ -1,55 +1,55 @@
-# 🧪 Software Testing Foundations — From Manual to Automation
+# 🧪 Software Testing Foundations
 
-### 🎯 Course Goal
-Learn how to test software effectively — from manual test cases to automated testing with Selenium and PyTest.
-
----
-
-## 🧠 Course Overview
-This course helps you master QA principles, software testing life cycles, and automation using Python-based tools.
+## 📘 Course Overview
+Learn manual and automation testing fundamentals used in real-world software projects.
 
 ---
 
-## 📘 Modules & Units
-
-### **Module 1: QA Fundamentals**
-- What is QA & why testing matters  
-- SDLC vs STLC  
-- Types of testing: Functional, Regression, Smoke  
-
-### **Module 2: Manual Testing Essentials**
-- Test case writing  
-- Defect life cycle & bug reports  
-- Test scenarios & traceability matrix  
-
-### **Module 3: Automation Testing**
-- Selenium setup & element locators  
-- PyTest basics: test suites, assertions  
-- Data-driven testing  
-
-### **Module 4: Reporting & CI Integration**
-- Generating HTML reports  
-- Integrating tests in CI/CD (GitHub Actions)
+## 📚 Curriculum
+- SDLC & STLC
+- Test case design
+- Bug reporting
+- Selenium basics
+- Automation scripts
 
 ---
 
-### 🧩 Mini Project: Web Form Test Automation
-Automate login and registration form testing using Selenium + PyTest.
+## 🎓 Learning Outcomes
+✔ Understand testing lifecycle  
+✔ Write test cases  
+✔ Identify and report bugs  
+✔ Perform basic automation  
 
 ---
 
-### 🧰 Tools Required
-- Selenium, PyTest, ChromeDriver  
-- GitHub Actions / Jenkins  
+## 🧭 Recommended Learning Pathway
+Step 1: Learn manual testing concepts  
+Step 2: Complete global certification  
+👉 https://www.coursera.org/learn/software-testing  
+
+Step 3: Mentorship sessions  
+Step 4: Build testing projects  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand QA fundamentals  
-✅ Write and automate test cases  
-✅ Integrate testing into CI/CD pipelines  
+## 🧠 How We Guide You
+✔ Real-world testing scenarios  
+✔ Debugging support  
+✔ Automation guidance  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [☁️ Azure DevOps Essentials](./azure-devops.md)
+## 🧪 Projects
+- Website testing report  
+- Selenium automation script  
+
+---
+
+## 🎯 Outcome
+✔ Ready for QA roles  
+✔ Understand automation basics  
+
+---
+
+## 🚀 Next Step
+👉 Automation Testing / DevOps
