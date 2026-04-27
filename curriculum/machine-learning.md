@@ -1,42 +1,42 @@
-# 🤖 Machine Learning Basics — Build Your First Model
+# 🤖 Machine Learning Basics
 
-### 🎯 Course Goal
-Understand core ML concepts and build predictive models using Scikit-learn.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: ML Foundations**
-- What is ML? Types of ML  
-- Data preparation & train-test split  
-
-### **Module 2: Algorithms**
-- Regression & Classification models  
-- Evaluation metrics (Accuracy, RMSE)  
-
-### **Module 3: Deployment**
-- Saving models with Pickle  
-- Streamlit integration  
+## 📘 Course Overview
+Understand ML algorithms and build predictive models.
 
 ---
 
-### 🧩 Mini Project: House Price Predictor
-Train and test a model to predict house prices from real data.
+## 📚 Curriculum
+- Regression  
+- Classification  
+- Model evaluation  
 
 ---
 
-### 🧰 Tools Required
-- Python, Scikit-learn, Pandas, Streamlit  
+## 🎓 Learning Outcomes
+✔ Build ML models  
+✔ Understand predictions  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Understand ML workflow  
-✅ Train & evaluate models  
-✅ Deploy your ML model  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/specializations/machine-learning-introduction  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [💬 AI for Everyone](./ai-for-everyone.md)
+## 🧠 How We Guide You
+✔ Simplified ML concepts  
+
+---
+
+## 🧪 Projects
+- Prediction model  
+
+---
+
+## 🎯 Outcome
+✔ ML foundation  
+
+---
+
+## 🚀 Next Step
+👉 Deep Learning / AI
