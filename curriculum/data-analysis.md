@@ -1,42 +1,44 @@
-# 📊 Data Analysis with Python — Clean, Analyze & Visualize Data
+# 📊 Data Analysis with Python
 
-### 🎯 Course Goal
-Learn how to work with datasets, clean them, and create meaningful insights using Python libraries.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Data Basics**
-- Importing CSV and Excel files  
-- Using Pandas & NumPy  
-
-### **Module 2: Data Cleaning**
-- Handling nulls, duplicates, formatting issues  
-- Combining and filtering data  
-
-### **Module 3: Visualization**
-- Charts using Matplotlib & Seaborn  
-- Finding patterns and outliers  
+## 📘 Course Overview
+Analyze data using Python tools and visualization techniques.
 
 ---
 
-### 🧩 Mini Project: Retail Data Cleanup & Visualization
-Clean messy retail data and create visual insights for management.
+## 📚 Curriculum
+- Pandas, NumPy  
+- Data cleaning  
+- Visualization  
+- Dashboards  
 
 ---
 
-### 🧰 Tools Required
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
+## 🎓 Learning Outcomes
+✔ Analyze datasets  
+✔ Build dashboards  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Analyze real-world data  
-✅ Visualize trends and patterns  
-✅ Build data-driven reports  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/professional-certificates/google-data-analytics  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [🤖 Machine Learning Basics](./machine-learning.md)
+## 🧠 How We Guide You
+✔ Real dataset analysis  
+
+---
+
+## 🧪 Projects
+- Sales dashboard  
+- Data analysis project  
+
+---
+
+## 🎯 Outcome
+✔ Data analyst foundation  
+
+---
+
+## 🚀 Next Step
+👉 Machine Learning
