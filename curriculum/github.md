@@ -1,44 +1,44 @@
-# 💾 Git & GitHub Mastery — Collaborate Like a Pro
+# 🔧 Git & GitHub Mastery
 
-### 🎯 Course Goal
-Learn version control, collaboration, and automation using Git and GitHub.
-
----
-
-## 📘 Modules & Units
-
-### **Module 1: Version Control Basics**
-- Installing Git  
-- Commit, Push, Pull, Clone  
-- Branching and Merging  
-
-### **Module 2: Collaboration Workflows**
-- Forks and Pull Requests  
-- Handling conflicts  
-- Merging strategies  
-
-### **Module 3: GitHub Actions**
-- Creating workflows  
-- Automating tasks like testing and deployment  
+## 📘 Course Overview
+Master version control and collaboration workflows.
 
 ---
 
-### 🧩 Mini Project: Team Portfolio Repository
-Collaboratively build a GitHub repository with branching, PRs, and automation.
+## 📚 Curriculum
+- Git basics  
+- Branching  
+- Merging  
+- GitHub workflows  
 
 ---
 
-### 🧰 Tools Required
-- Git, GitHub, Markdown  
+## 🎓 Learning Outcomes
+✔ Version control skills  
+✔ Team collaboration  
 
 ---
 
-### 🎓 Learning Outcomes
-✅ Use Git effectively for version control  
-✅ Collaborate using GitHub  
-✅ Automate workflows with GitHub Actions  
+## 🧭 Recommended Learning Pathway
+👉 https://www.coursera.org/learn/introduction-git-github  
 
 ---
 
-### 🏁 Next Step
-Proceed to → [📊 Data Analysis with Python](./data-analysis.md)
+## 🧠 How We Guide You
+✔ Hands-on repo management  
+
+---
+
+## 🧪 Projects
+- GitHub project repo  
+- Team collaboration simulation  
+
+---
+
+## 🎯 Outcome
+✔ Industry-ready Git skills  
+
+---
+
+## 🚀 Next Step
+👉 DevOps / Projects
